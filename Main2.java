@@ -20,6 +20,8 @@ public class Main {
         Vector<Student> students = new Vector<>();
         students.add(new Student("ida", "darvishi", "1401012268002"));
         students.add(new Student("arefeh", "rassafian", "1401012268010"));
+        students.add(new Student("Amirhossein", "Jamei", "1401012268076"));
+        students.add(new Student("Najme", "Kouhsar", "1401012268021"));
 
 
         // مرتب‌سازی بر اساس نام
