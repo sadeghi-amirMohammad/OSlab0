@@ -22,7 +22,10 @@ public class Main {
         students.add(new Student("arefeh", "rassafian", "1401012268010"));
         students.add(new Student("Amirhossein", "Jamei", "1401012268076"));
         students.add(new Student("Najme", "Kouhsar", "1401012268021"));
-
+        students.add(new Student("amir", "sadeghi", "14010122680053"));
+        students.add(new Student("reza", "fadai", "14010122680022"));
+        students.add(new Student("Amirhossein", "khodadadi", "14010122680025"));
+        students.add(new Student("Najme", "Kouhsar", "14010122680037"));
 
         // مرتب‌سازی بر اساس نام
         students.sort(Comparator.comparing(student -> student.firstName));
